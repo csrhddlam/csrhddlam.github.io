@@ -1,5 +1,5 @@
 yout: archive
-permalink: /Blogs/
+permalink: /blogs/
 author_profile: true
 comments: true
 ---
