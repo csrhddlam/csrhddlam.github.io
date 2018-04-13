@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Huiyu Wang"
   avatar           : /huiyu.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Ph.D. student at JHU"
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
