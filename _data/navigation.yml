@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://csrhddlam.github.io/
+  # - title: "Quick-Start Guide"
+  #   url: https://csrhddlam.github.io/
   - title: "Blogs"
-    url: https://csrhddlam.github.io/blogs/
+    url: https://csrhddlam.github.io/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
