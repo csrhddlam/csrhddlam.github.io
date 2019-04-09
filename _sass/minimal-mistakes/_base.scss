@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-3;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -111,7 +111,6 @@ blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
-  font-size: $type-size-3;
   border-left: 0.25em solid $primary-color;
 
   cite {
