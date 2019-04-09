@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Huiyu Wang"
 title_separator          : "-"
 name                     : "Huiyu Wang"
-description              : "An amazing website."
+description              : 
 url                      : https://csrhddlam.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,7 +99,7 @@ analytics:
 author:
   name             : 
   avatar           : /huiyu.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. student at JHU"
+  bio              : 
   location         :
   email            : "huiyu@jhu.edu"
   uri              :
