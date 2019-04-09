@@ -110,7 +110,7 @@ author:
   avatar           : /huiyu.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         :
-  email            : "huiyu@jhu.edu"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
