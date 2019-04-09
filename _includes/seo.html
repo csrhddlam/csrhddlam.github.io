@@ -4,9 +4,7 @@
 {%- endif -%}
 {%- assign seo_url = seo_url | default: site.github.url -%}
 
-{% if site.title_separator %}
-  {% assign title_separator = site.title_separator | default: '-' | replace: '|', '&#124;' %}
-{% endif %}
+{% assign title_separator = site.title_separator | default: '-' | replace: '|', '&#124;' %}
 
 {%- if page.title -%}
   {%- assign seo_title = page.title | append: " " | append: title_separator | append: " " | append: site.title -%}
@@ -16,7 +14,11 @@
   {%- assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once -%}
 {%- endif -%}
 
-{%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
+{% if page.canonical_url %}
+  {%- assign canonical_url = page.canonical_url %}
+{% else %}
+  {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
+{% endif %}
 
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
 {%- if seo_description -%}
@@ -128,7 +130,7 @@
 {% if site.og_image %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": {{ seo_url | jsonify }},
       "logo": {{ site_og_image | jsonify }}
@@ -139,7 +141,7 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name": {{ site.social.name | default: site.name | jsonify }},
       "url": {{ seo_url | jsonify }},
@@ -160,7 +162,7 @@
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
-{% if site.naver-site-verification %}
-  <meta name="naver-site-verification" content="{{ site.naver-site-verification }}">
+{% if site.naver_site_verification %}
+  <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
 {% endif %}
 <!-- end _includes/seo.html -->
