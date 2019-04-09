@@ -10,6 +10,11 @@ My research interests are computer vision and machine learning.
 
 # Publications
 
+> Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval  
+> Qing Liu, Lingxi Xie, **Huiyu Wang**, and Alan Yuille  
+> In *arXiv preprint*, 2019  
+> [[arXiv]](https://arxiv.org/abs/1904.03208)
+
 > Weight Standardization  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, and Alan Yuille  
 > In *arXiv preprint*, 2019  
