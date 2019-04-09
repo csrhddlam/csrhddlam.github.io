@@ -9,7 +9,7 @@ I am a second-year Ph.D. student in Computer Science at Johns Hopkins University
 My research interests are computer vision and machine learning.
 
 # Publications
-------
+
 > Weight Standardization  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, and Alan Yuille  
 > In *arXiv preprint*, 2019  
