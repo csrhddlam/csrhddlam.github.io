@@ -7,3 +7,7 @@ Huiyu Wang is a first-year Ph.D. student in Computer Science at Johns Hopkins Un
 
 # Publications
 
+> ELASTIC: Improving CNNs with Dynamic Scaling Policies  
+> **Huiyu Wang**, Aniruddha Kembhavi, Ali Farhadi, Alan Yuille, and Mohammad Rastegari  
+> In *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
+> [[arXiv]](https://arxiv.org/abs/1812.05262) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs19/wang2019elastic.pdf) [[Code]](https://github.com/allenai/elastic)
