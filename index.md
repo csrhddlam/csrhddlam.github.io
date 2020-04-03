@@ -10,10 +10,25 @@ My research interests are computer vision and machine learning.
 
 # Publications
 
+> Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
+> **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille and Liang-Chieh Chen  
+> In *arXiv preprint*, 2020  
+> [[arXiv]](https://arxiv.org/abs/2003.07853)
+
+> Rethinking Normalization and Elimination Singularity in Neural Networks  
+> Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, Alan Yuille  
+> In *arXiv preprint*, 2019  
+> [[arXiv]](https://arxiv.org/abs/1911.09738) [[Code]](https://github.com/joe-siyuan-qiao/Batch-Channel-Normalization)
+
+> Combining Compositional Models and Deep Networks For Robust Object Classification under Occlusion  
+> Adam Kortylewski, Qing Liu, **Huiyu Wang**, Zhishuai Zhang and Alan Yuille  
+> In *Winter Conference on Applications of Computer Vision (**WACV**)*, 2020 (**Spotlight**)  
+> [[arXiv]](https://arxiv.org/abs/1905.11826) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs20/kortylewski2020combining.pdf)
+
 > Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval  
 > Qing Liu, Lingxi Xie, **Huiyu Wang**, and Alan Yuille  
 > In *International Conference on Computer Vision (**ICCV**)*, 2019  
-> [[arXiv]](https://arxiv.org/abs/1904.03208) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs19/liu2019semantic.pdf)
+> [[arXiv]](https://arxiv.org/abs/1904.03208) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs19/liu2019semantic.pdf) [[Code]](https://github.com/qliu24/SAKE)
 
 > Weight Standardization  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, and Alan Yuille  
