@@ -12,7 +12,7 @@ My research interests are computer vision and machine learning.
 
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille and Liang-Chieh Chen  
-> In *arXiv preprint*, 2020  
+> In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
 > [[arXiv]](https://arxiv.org/abs/2003.07853)
 
 > Rethinking Normalization and Elimination Singularity in Neural Networks  
