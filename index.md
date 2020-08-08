@@ -13,7 +13,7 @@ My research interests are computer vision and machine learning.
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille and Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
-> [[arXiv]](https://arxiv.org/abs/2003.07853)
+> [[arXiv]](https://arxiv.org/abs/2003.07853) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs20/wang2020axial.pdf) [[Code]](https://github.com/csrhddlam/axial-deeplab) [[Video]](https://youtu.be/-iAXF-vibdE)
 
 > Rethinking Normalization and Elimination Singularity in Neural Networks  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, Alan Yuille  
