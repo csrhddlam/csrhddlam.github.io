@@ -13,7 +13,7 @@ My research interests are computer vision and machine learning.
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille and Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
-> [[arXiv]](https://arxiv.org/abs/2003.07853) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs20/wang2020axial.pdf) [[Code]](https://github.com/csrhddlam/axial-deeplab) [[Video]](https://youtu.be/-iAXF-vibdE) [[Google AI Blog]](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
+> [[arXiv]](https://arxiv.org/abs/2003.07853) [[Slides]](https://csrhddlam.github.io/AxialDeepLab.pdf) [[Video]](https://youtu.be/-iAXF-vibdE) [[Code]](https://github.com/csrhddlam/axial-deeplab) [[Google AI Blog]](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
 
 > Rethinking Normalization and Elimination Singularity in Neural Networks  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, Alan Yuille  
@@ -23,12 +23,12 @@ My research interests are computer vision and machine learning.
 > Combining Compositional Models and Deep Networks For Robust Object Classification under Occlusion  
 > Adam Kortylewski, Qing Liu, **Huiyu Wang**, Zhishuai Zhang and Alan Yuille  
 > In *Winter Conference on Applications of Computer Vision (**WACV**)*, 2020 (**Spotlight**)  
-> [[arXiv]](https://arxiv.org/abs/1905.11826) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs20/kortylewski2020combining.pdf)
+> [[arXiv]](https://arxiv.org/abs/1905.11826)
 
 > Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval  
 > Qing Liu, Lingxi Xie, **Huiyu Wang**, and Alan Yuille  
 > In *International Conference on Computer Vision (**ICCV**)*, 2019  
-> [[arXiv]](https://arxiv.org/abs/1904.03208) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs19/liu2019semantic.pdf) [[Code]](https://github.com/qliu24/SAKE)
+> [[arXiv]](https://arxiv.org/abs/1904.03208) [[Code]](https://github.com/qliu24/SAKE)
 
 > Weight Standardization  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, and Alan Yuille  
@@ -38,4 +38,4 @@ My research interests are computer vision and machine learning.
 > ELASTIC: Improving CNNs with Dynamic Scaling Policies  
 > **Huiyu Wang**, Aniruddha Kembhavi, Ali Farhadi, Alan Yuille, and Mohammad Rastegari  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
-> [[arXiv]](https://arxiv.org/abs/1812.05262) [[Paper]](https://cs.jhu.edu/~alanlab/Pubs19/wang2019elastic.pdf) [[Code]](https://github.com/allenai/elastic)
+> [[arXiv]](https://arxiv.org/abs/1812.05262) [[Code]](https://github.com/allenai/elastic)
