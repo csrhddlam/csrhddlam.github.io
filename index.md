@@ -10,6 +10,13 @@ My research interests are computer vision and machine learning.
 
 # Publications
 
+
+
+> CO2: Consistent Contrast for Unsupervised Visual Representation Learning  
+> Chen Wei, **Huiyu Wang**, Wei Shen, Alan Yuille  
+> In *arXiv preprint*, 2020  
+> [[arXiv]](https://arxiv.org/abs/2010.02217)
+
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille and Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
