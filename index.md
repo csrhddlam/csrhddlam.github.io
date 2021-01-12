@@ -22,7 +22,7 @@ My research interests are computer vision and machine learning.
 
 > CO2: Consistent Contrast for Unsupervised Visual Representation Learning  
 > Chen Wei, **Huiyu Wang**, Wei Shen, Alan Yuille  
-> In *arXiv preprint*, 2020  
+> In *International Conference on Learning Representations (**ICLR**)*, 2021  
 > [[arXiv]](https://arxiv.org/abs/2010.02217)
 
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
