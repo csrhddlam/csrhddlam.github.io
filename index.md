@@ -12,7 +12,7 @@ My research interests are computer vision and machine learning.
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 > **Huiyu Wang**, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
-> In *arXiv preprint*, 2020  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2021  
 > [[arXiv]](https://arxiv.org/abs/2012.00759)
 
 > Scaling Wide Residual Networks for Panoptic Segmentation  
