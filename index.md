@@ -25,7 +25,7 @@ My research interests are computer vision and deep learning.
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 > **Huiyu Wang**, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2021  
-> [[arXiv]](https://arxiv.org/abs/2012.00759) [[Code]](https://github.com/google-research/deeplab2) [[Poster]](https://csrhddlam.github.io/MaXDeepLabPoster.pdf) [[Slides]](https://csrhddlam.github.io/MaXDeepLabSlides.pdf) [[Video]](https://www.youtube.com/watch?v=ir0Avw92Jv0) [[Google AI Blog]](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
+> [[arXiv]](https://arxiv.org/abs/2012.00759) [[Code]](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) [[Poster]](https://csrhddlam.github.io/MaXDeepLabPoster.pdf) [[Slides]](https://csrhddlam.github.io/MaXDeepLabSlides.pdf) [[Video]](https://www.youtube.com/watch?v=ir0Avw92Jv0) [[Google AI Blog]](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
 
 > Scaling Wide Residual Networks for Panoptic Segmentation  
 > Liang-Chieh Chen, **Huiyu Wang**, Siyuan Qiao  
@@ -40,7 +40,7 @@ My research interests are computer vision and deep learning.
 > Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
-> [[arXiv]](https://arxiv.org/abs/2003.07853) [[Official Code]](https://github.com/google-research/deeplab2) [[PyTorch Code]](https://github.com/csrhddlam/axial-deeplab) [[Slides]](https://csrhddlam.github.io/AxialDeepLab.pdf) [[Video]](https://youtu.be/-iAXF-vibdE) [[Google AI Blog]](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
+> [[arXiv]](https://arxiv.org/abs/2003.07853) [[Official Code]](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) [[PyTorch Code]](https://github.com/csrhddlam/axial-deeplab) [[Slides]](https://csrhddlam.github.io/AxialDeepLab.pdf) [[Video]](https://youtu.be/-iAXF-vibdE) [[Google AI Blog]](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
 
 > Rethinking Normalization and Elimination Singularity in Neural Networks  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, Alan Yuille  
@@ -66,3 +66,8 @@ My research interests are computer vision and deep learning.
 > **Huiyu Wang**, Aniruddha Kembhavi, Ali Farhadi, Alan Yuille, Mohammad Rastegari  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
 > [[arXiv]](https://arxiv.org/abs/1812.05262) [[Code]](https://github.com/allenai/elastic) [[Poster]](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) [[Video]](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
+
+> Semantic Mapping for Safe and Comfortable Navigation of a Brain-Controlled Wheelchair  
+> Zhixuan Wei, Weidong Chen, Jingchuan Wang, **Huiyu Wang**, Kang Li  
+> In *International Conference on Intelligent Robotics and Applications (**ICIRA**)*, 2013  
+> [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-40852-6_32)
