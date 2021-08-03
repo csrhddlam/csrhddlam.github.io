@@ -22,13 +22,13 @@
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - (#{$right-sidebar-width-narrow} / 5));
-    padding-right: calc(#{$right-sidebar-width-narrow} / 5);
+    width: calc(100% - (#{$right-sidebar-width-narrow} / 1));
+    padding-right: calc(#{$right-sidebar-width-narrow} / 1);
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - (#{$right-sidebar-width} / 5));
-    padding-right: calc(#{$right-sidebar-width} / 5);
+    width: calc(100% - (#{$right-sidebar-width} / 1));
+    padding-right: calc(#{$right-sidebar-width} / 1);
   }
 
   .page__inner-wrap {
@@ -500,21 +500,21 @@
 .wide {
   .page {
     @include breakpoint($large) {
-      padding-right: 0;
+      padding-right: calc(#{$right-sidebar-width-narrow} / 5);
     }
 
     @include breakpoint($x-large) {
-      padding-right: 0;
+      padding-right: calc(#{$right-sidebar-width} / 5);
     }
   }
 
   .page__related {
     @include breakpoint($large) {
-      padding-right: 0;
+      padding-right: calc(#{$right-sidebar-width-narrow} / 5);
     }
 
     @include breakpoint($x-large) {
-      padding-right: 0;
+      padding-right: calc(#{$right-sidebar-width} / 5);
     }
   }
 }
