@@ -17,7 +17,9 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include_cached browser-upgrade.html %}
-    {% include_cached masthead.html %}
+    {% unless page.masthead == false %}
+      {% include_cached masthead.html %}
+    {% endunless %}
 
     <div class="initial-content">
       {{ content }}
