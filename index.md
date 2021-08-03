@@ -13,16 +13,16 @@ I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised 
 
 My research interests are computer vision and deep learning.
 
-I am on the job market now. Please send me an email if you are interested.
+I am on the job market now. Please drop me an email if you are interested.
 
-## News
+# News
 
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - 1 paper accepted to CVPR 2021.
 - 1 paper accepted to ICLR 2021.
 - 1 paper accepted to ECCV 2020.
 
-## Selected Publications
+# Selected Publications
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 > **Huiyu Wang**, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
