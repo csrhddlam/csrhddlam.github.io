@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised 
 
 My research interests are computer vision and deep learning.
 
-I am on the job market now. Please drop me an email if you are interested.
+I am on the job market now. Please send me an email if you are interested.
 
 ## News
 
