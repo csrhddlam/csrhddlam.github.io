@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    opacity: 1.0;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -119,6 +119,7 @@
   vertical-align: top;
   width: 36px;
   height: 36px;
+  margin-top: 10em;
 
   @include breakpoint($large) {
     display: block;
