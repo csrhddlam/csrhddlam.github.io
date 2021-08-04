@@ -116,10 +116,10 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:huiyu@jhu.edu
     - label: "CV"
-      icon: "far fa-file-pdf"
+      icon: "far fa-fw fa-file-pdf"
       url: "https://csrhddlam.github.io/CV_HuiyuWang.pdf"
     - label: "Google Scholar"
-      icon: "fab fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=SnmuYloAAAAJ&hl=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
