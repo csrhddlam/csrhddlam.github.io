@@ -116,10 +116,10 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:huiyu@jhu.edu
     - label: "CV"
-      # icon: "fas fa-fw fa-link"
+      icon: "far fa-file-pdf"
       url: "https://csrhddlam.github.io/CV_HuiyuWang.pdf"
     - label: "Google Scholar"
-      # icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=SnmuYloAAAAJ&hl=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/csrhddlam"
+      # url: "https://github.com/csrhddlam"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
