@@ -39,7 +39,7 @@ I am on the job market now. Please drop me an email if you are interested.
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
 > [[arXiv]](https://arxiv.org/abs/1812.05262) [[Code]](https://github.com/allenai/elastic) [[Poster]](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) [[Video]](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
-## Full List of Publications
+# Full List of Publications
 
 > DeepLab2: A TensorFlow Library for Deep Labeling  
 > Mark Weber\*, **Huiyu Wang\***, Siyuan Qiao\*, Jun Xie, Maxwell D. Collins, Yukun Zhu, Liangzhe Yuan, Dahun Kim, Qihang Yu, Daniel Cremers, Laura Leal-Taixe, Alan L. Yuille, Florian Schroff, Hartwig Adam, Liang-Chieh Chen  
