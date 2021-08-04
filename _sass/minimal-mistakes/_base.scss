@@ -15,6 +15,7 @@ body {
   font-family: $global-font-family;
   font-size: $type-size-6;
   line-height: 1.5;
+  font-weight: 100;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -37,11 +38,11 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-1;
-  font-weight: 400;
+  font-weight: 100;
 }
 
 h2 {
-  margin-top: 3em;
+  margin-top: 1em;
   font-size: $type-size-2;
   font-weight: 400;
 }
@@ -68,7 +69,7 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1.0em
   font-weight: 100;
 }
 
