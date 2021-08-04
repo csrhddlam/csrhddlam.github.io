@@ -108,12 +108,12 @@ analytics:
 author:
   name             : Huiyu Wang
   avatar           : /huiyu.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : PhD Candidate in CS at JHU
   location         :
   email            :
   links:
     - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: mailto:huiyu@jhu.edu
     - label: "CV"
       # icon: "fas fa-fw fa-link"
@@ -125,8 +125,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/csrhddlam"
+      # icon: "fab fa-fw fa-github"
+      # url: "https://github.com/csrhddlam"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
