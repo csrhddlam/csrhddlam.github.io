@@ -113,13 +113,13 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: mailto:huiyu@jhu.edu
     - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
+      icon: "fas fa-fw fa-file-pdf"
       url: "https://csrhddlam.github.io/CV_HuiyuWang.pdf"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=SnmuYloAAAAJ&hl=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
