@@ -11,7 +11,7 @@ author_profile: true
 
 I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). I received M.S. in Electrical Engineering at University of California, Los Angeles in 2017 and B.S. in Information Engineering at Shanghai Jiao Tong University in 2015. I also spent wonderful summers at Google Research, Allen Institute for Artificial Intelligence (AI2), and TuSimple.
 
-My research interests are computer vision and deep learning.
+My research interest is computer vision with focuses on long-range modeling and scene segmentation.
 
 I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested.
 
