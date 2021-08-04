@@ -5,7 +5,6 @@ title:
 author_profile: true
 ---
 
-&nbsp;
 # Huiyu Wang
 ---
 
@@ -15,14 +14,14 @@ My research interest is computer vision with focuses on long-range modeling and 
 
 I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested.
 
-# News
+## News
 
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, achieves 51.3% PQ on COCO with an end-to-end **Ma**sk **X**former.
 - [CO2](https://arxiv.org/abs/2010.02217) accepted to ICLR 2021.
 - [Axial-DeepLab](https://arxiv.org/abs/2003.07853), the first architecture with global attention in all layers, is accepted to ECCV 2020.
 
-# Selected Publications
+## Selected Publications
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 > **Huiyu Wang**, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
@@ -39,7 +38,7 @@ I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if y
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
 > [arXiv](https://arxiv.org/abs/1812.05262) | [Code](https://github.com/allenai/elastic) | [Poster](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) | [Video](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
-# Full List of Publications
+## Full List of Publications
 
 > DeepLab2: A TensorFlow Library for Deep Labeling  
 > Mark Weber\*, **Huiyu Wang\***, Siyuan Qiao\*, Jun Xie, Maxwell D. Collins, Yukun Zhu, Liangzhe Yuan, Dahun Kim, Qihang Yu, Daniel Cremers, Laura Leal-Taixe, Alan L. Yuille, Florian Schroff, Hartwig Adam, Liang-Chieh Chen  
