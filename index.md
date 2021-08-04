@@ -19,7 +19,7 @@ I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if y
 # News
 
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
-- [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, achieves 51.3% PQ on COCO with end-to-end **Ma**sk **X**formers.
+- [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, achieves 51.3% PQ on COCO with an end-to-end **Ma**sk **X**former.
 - 1 paper accepted to ICLR 2021.
 - [Axial-DeepLab](https://arxiv.org/abs/2003.07853), the first architecture with global attention in all layers, is accepted to ECCV 2020.
 
