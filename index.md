@@ -15,6 +15,7 @@ My research interests are computer vision and deep learning.
 
 I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested.
 
+&nbsp;
 # News
 
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
@@ -22,6 +23,7 @@ I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if y
 - 1 paper accepted to ICLR 2021.
 - [Axial-DeepLab](https://arxiv.org/abs/2003.07853), the first architecture with global attention in all layers, is accepted to ECCV 2020.
 
+&nbsp;
 # Selected Publications
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
@@ -39,6 +41,7 @@ I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if y
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2019 (**Oral**)  
 > [[arXiv]](https://arxiv.org/abs/1812.05262) [[Code]](https://github.com/allenai/elastic) [[Poster]](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) [[Video]](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
+&nbsp;
 # Full List of Publications
 
 > DeepLab2: A TensorFlow Library for Deep Labeling  
