@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised 
 
 My research interest is computer vision with focuses on long-range modeling and scene segmentation.
 
-I am on the job market now. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested.
+I am actively looking for a full-time job. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested.
 
 ## News
 
