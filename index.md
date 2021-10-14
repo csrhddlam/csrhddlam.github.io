@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised 
 
 My research interest is computer vision with focuses on long-range modeling and scene segmentation.
 
-I will join Facebook AI Research as a Research Scientist after graduation.
+I will join Facebook AI Research as a research scientist after graduation.
 
 ## News
 
