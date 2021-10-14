@@ -9,11 +9,11 @@ author_profile: true
 # Huiyu Wang
 ---
 
-I am a Ph.D. candidate in Computer Science at Johns Hopkins University (JHU), advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). Before that, I received M.S. in Electrical Engineering from University of California, Los Angeles (UCLA) and B.S. in Information Engineering from Shanghai Jiao Tong University (SJTU). I also spent two years as a student researcher at Google and had wonderful summers at Allen Institute for Artificial Intelligence (AI2), and TuSimple.
+I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). Before that, I received M.S. in Electrical Engineering from University of California, Los Angeles and B.S. in Information Engineering from Shanghai Jiao Tong University. I also spent two years as a student researcher at Google and had wonderful summers at Allen Institute for Artificial Intelligence, and TuSimple.
 
 My research interest is computer vision with focuses on long-range modeling and scene segmentation.
 
-I will join Facebook AI Research (FAIR) as a Research Scientist after graduation.
+I will join Facebook AI Research as a Research Scientist after graduation.
 
 ## News
 
