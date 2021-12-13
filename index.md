@@ -28,7 +28,7 @@ I will join Facebook AI Research as a research scientist after graduation.
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
 > In *arXiv preprint*, 2021  
-> [arXiv](https://arxiv.org/abs/2111.07832)
+> [arXiv](https://arxiv.org/abs/2111.07832) | [Code](https://github.com/bytedance/ibot)
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
 > **Huiyu Wang**, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
@@ -50,7 +50,7 @@ I will join Facebook AI Research as a research scientist after graduation.
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
 > In *arXiv preprint*, 2021  
-> [arXiv](https://arxiv.org/abs/2111.07832)
+> [arXiv](https://arxiv.org/abs/2111.07832) | [Code](https://github.com/bytedance/ibot)
 
 > Searching for TrioNet: Combining Convolution with Local and Global Self-Attention  
 > Huaijin Pi, **Huiyu Wang**, Yingwei Li, Zizhang Li, Alan Yuille  
