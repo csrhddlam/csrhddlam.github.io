@@ -11,13 +11,13 @@ author_profile: true
 
 I am a Ph.D. candidate in Computer Science at Johns Hopkins University, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). Before that, I received M.S. in Electrical Engineering from University of California, Los Angeles and B.S. in Information Engineering from Shanghai Jiao Tong University. I also spent two years as a student researcher at Google and had wonderful summers at Allen Institute for Artificial Intelligence, and TuSimple.
 
-My research interest is computer vision with focuses on long-range modeling and scene segmentation.
+My research interest is computer vision with focuses on long-range modeling.
 
 I will join Facebook AI Research as a research scientist after graduation.
 
 ## News
 
-- Check out our [iBOT](https://arxiv.org/abs/2111.07832) for masked image modeling with an online tokenizer.
+- [iBOT](https://arxiv.org/abs/2111.07832) for masked image modeling with an online tokenizer is accepted to ICLR 2022.
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, achieves 51.3% PQ on COCO with an end-to-end **Ma**sk **X**former.
 - [CO2](https://arxiv.org/abs/2010.02217) accepted to ICLR 2021.
@@ -27,7 +27,7 @@ I will join Facebook AI Research as a research scientist after graduation.
 
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
-> In *arXiv preprint*, 2021  
+> In *International Conference on Learning Representations (**ICLR**)*, 2022  
 > [arXiv](https://arxiv.org/abs/2111.07832) | [Code](https://github.com/bytedance/ibot)
 
 > MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers  
@@ -49,7 +49,7 @@ I will join Facebook AI Research as a research scientist after graduation.
 
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
-> In *arXiv preprint*, 2021  
+> In *International Conference on Learning Representations (**ICLR**)*, 2022  
 > [arXiv](https://arxiv.org/abs/2111.07832) | [Code](https://github.com/bytedance/ibot)
 
 > Searching for TrioNet: Combining Convolution with Local and Global Self-Attention  
