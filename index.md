@@ -15,7 +15,8 @@ My research interest is computer vision with focuses on long-range modeling.
 
 ## News
 
-- 3 papers accepted to CVPR 2022.
+- 3/3 papers accepted to ECCV 2022.
+- 3/3 papers accepted to CVPR 2022.
 - [iBOT](https://arxiv.org/abs/2111.07832) for masked image modeling with an online tokenizer is accepted to ICLR 2022.
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, proposes **Ma**sk **X**formers for end-to-end panoptic segmentation.
