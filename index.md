@@ -83,7 +83,7 @@ My research interest is computer vision with focuses on long-range modeling.
 > [arXiv](https://arxiv.org/abs/2012.00759) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) | [Poster](https://csrhddlam.github.io/MaXDeeplabPoster.pdf) | [Slides](https://csrhddlam.github.io/MaXDeepLabSlides.pdf) | [Video](https://www.youtube.com/watch?v=ir0Avw92Jv0) | [Google AI Blog](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
 
 > SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation  
-> Liang-Chieh Chen, **Huiyu Wang**, Siyuan Qiao  
+> Boxiang Yun, Yan Wang, Jieneng Chen, **Huiyu Wang**, Wei Shen, Qingli Li  
 > In *arXiv preprint*, 2021  
 > [arXiv](https://arxiv.org/abs/2103.03604) | [Code](https://github.com/hfut-xc-yun/SpecTr)
 
