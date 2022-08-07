@@ -47,6 +47,21 @@ My research interest is computer vision with focuses on long-range modeling.
 
 ## Full List of Publications
 
+> CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation  
+> Qihang Yu, **Huiyu Wang**, Dahun Kim, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022 (**Oral**)  
+> [arXiv](https://arxiv.org/abs/2206.08948)
+
+> TubeFormer-DeepLab: Video Mask Transformer  
+> Dahun Kim, Jun Xie, **Huiyu Wang**, Siyuan Qiao, Qihang Yu, Hong-Seok Kim, Hartwig Adam, In So Kweon, Liang-Chieh Chen  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2205.15361)
+
+> A Simple Data Mixing Prior for Improving Self-Supervised Learning  
+> Sucheng Ren, **Huiyu Wang**, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2206.07692) | [Code](https://github.com/OliverRensu/SDMP)
+
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
 > In *International Conference on Learning Representations (**ICLR**)*, 2022  
@@ -67,10 +82,10 @@ My research interest is computer vision with focuses on long-range modeling.
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2021  
 > [arXiv](https://arxiv.org/abs/2012.00759) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) | [Poster](https://csrhddlam.github.io/MaXDeeplabPoster.pdf) | [Slides](https://csrhddlam.github.io/MaXDeepLabSlides.pdf) | [Video](https://www.youtube.com/watch?v=ir0Avw92Jv0) | [Google AI Blog](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
 
-> Scaling Wide Residual Networks for Panoptic Segmentation  
+> SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation  
 > Liang-Chieh Chen, **Huiyu Wang**, Siyuan Qiao  
-> In *arXiv preprint*, 2020  
-> [arXiv](https://arxiv.org/abs/2011.11675) | [Code](https://github.com/google-research/deeplab2)
+> In *arXiv preprint*, 2021  
+> [arXiv](https://arxiv.org/abs/2103.03604) | [Code](https://github.com/hfut-xc-yun/SpecTr)
 
 > CO2: Consistent Contrast for Unsupervised Visual Representation Learning  
 > Chen Wei, **Huiyu Wang**, Wei Shen, Alan Yuille  
@@ -81,6 +96,11 @@ My research interest is computer vision with focuses on long-range modeling.
 > **Huiyu Wang**, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2020 (**Spotlight**)  
 > [arXiv](https://arxiv.org/abs/2003.07853) | [Official Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) | [PyTorch Code](https://github.com/csrhddlam/axial-deeplab) | [Slides](https://csrhddlam.github.io/AxialDeepLab.pdf) | [Video](https://youtu.be/-iAXF-vibdE) | [Google AI Blog](https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html)
+
+> Scaling Wide Residual Networks for Panoptic Segmentation  
+> Liang-Chieh Chen, **Huiyu Wang**, Siyuan Qiao  
+> In *arXiv preprint*, 2020  
+> [arXiv](https://arxiv.org/abs/2011.11675) | [Code](https://github.com/google-research/deeplab2)
 
 > Rethinking Normalization and Elimination Singularity in Neural Networks  
 > Siyuan Qiao, **Huiyu Wang**, Chenxi Liu, Wei Shen, Alan Yuille  
