@@ -28,7 +28,7 @@ My research interest is computer vision with focuses on long-range modeling.
 > k-means Mask Transformer  
 > Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2022  
-> [arXiv](https://arxiv.org/abs/2205.01721) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
+> [arXiv](https://arxiv.org/abs/2207.04044) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
 
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
@@ -55,7 +55,7 @@ My research interest is computer vision with focuses on long-range modeling.
 > k-means Mask Transformer  
 > Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2022  
-> [arXiv](https://arxiv.org/abs/2205.01721) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
+> [arXiv](https://arxiv.org/abs/2207.04044) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
 
 > CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation  
 > Feng Wang, **Huiyu Wang**, Chen Wei, Alan Yuille, Wei Shen  
