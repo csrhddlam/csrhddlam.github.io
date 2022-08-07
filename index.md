@@ -25,6 +25,11 @@ My research interest is computer vision with focuses on long-range modeling.
 
 ## Selected Publications
 
+> k-means Mask Transformer  
+> Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
+> In *European Conference on Computer Vision (**ECCV**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2205.01721) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
+
 > iBOT: Image BERT Pre-Training with Online Tokenizer  
 > Jinghao Zhou, Chen Wei, **Huiyu Wang**, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong  
 > In *International Conference on Learning Representations (**ICLR**)*, 2022  
@@ -47,15 +52,30 @@ My research interest is computer vision with focuses on long-range modeling.
 
 ## Full List of Publications
 
+> k-means Mask Transformer  
+> Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
+> In *European Conference on Computer Vision (**ECCV**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2205.01721) | [Code](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/kmax_deeplab.md) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
+
+> CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation  
+> Feng Wang, **Huiyu Wang**, Chen Wei, Alan Yuille, Wei Shen  
+> In *European Conference on Computer Vision (**ECCV**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2203.11709) | [Code](https://github.com/wangf3014/CP2)
+
+> In Defense of Image Pre-Training for Spatiotemporal Recognition  
+> Xianhang Li, **Huiyu Wang**, Chen Wei, Jieru Mei, Alan Yuille, Yuyin Zhou, Cihang Xie  
+> In *European Conference on Computer Vision (**ECCV**)*, 2022  
+> [arXiv](https://arxiv.org/abs/2205.01721) | [Code](https://github.com/UCSC-VLAA/Image-Pretraining-for-Video)
+
 > CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation  
 > Qihang Yu, **Huiyu Wang**, Dahun Kim, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022 (**Oral**)  
-> [arXiv](https://arxiv.org/abs/2206.08948)
+> [arXiv](https://arxiv.org/abs/2206.08948) | [Video](https://www.youtube.com/watch?v=corlztasj9g) | [Google AI Blog](https://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
 
 > TubeFormer-DeepLab: Video Mask Transformer  
 > Dahun Kim, Jun Xie, **Huiyu Wang**, Siyuan Qiao, Qihang Yu, Hong-Seok Kim, Hartwig Adam, In So Kweon, Liang-Chieh Chen  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022  
-> [arXiv](https://arxiv.org/abs/2205.15361)
+> [arXiv](https://arxiv.org/abs/2205.15361) | [Visualization](https://www.youtube.com/watch?v=twoJyHpkTbQ)
 
 > A Simple Data Mixing Prior for Improving Self-Supervised Learning  
 > Sucheng Ren, **Huiyu Wang**, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie  
