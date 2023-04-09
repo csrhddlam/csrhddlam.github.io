@@ -175,3 +175,7 @@ My research interest is computer vision with focuses on recognition and segmenta
 > Zhixuan Wei, Weidong Chen, Jingchuan Wang, **Huiyu Wang**, Kang Li  
 > In *International Conference on Intelligent Robotics and Applications (**ICIRA**)*, 2013  
 > [paper](https://link.springer.com/chapter/10.1007/978-3-642-40852-6_32)
+
+## Novelty
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
