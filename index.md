@@ -178,4 +178,12 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Novelty
 
+Novelty is the name of a cat. Here are some images recontructed by [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
+
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty2.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty3.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty4.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty5.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty6.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty7.png)
