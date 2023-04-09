@@ -61,6 +61,11 @@ My research interest is computer vision with focuses on recognition and segmenta
 > In *arXiv preprint*, 2023  
 > [arXiv](https://arxiv.org/abs/2304.03283) | [Project](https://weichen582.github.io/diffmae.html)
 
+> Ego-Only: Egocentric Action Detection without Exocentric Pretraining  
+> **Huiyu Wang**, Mitesh Kumar Singh, Lorenzo Torresani  
+> In *arXiv preprint*, 2023  
+> [arXiv](https://arxiv.org/abs/2301.01380)
+
 > Masked Autoencoders Enable Efficient Knowledge Distillers  
 > Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, **Huiyu Wang**, Alan Yuille, Yuyin Zhou, Cihang Xie  
 > In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2023  
