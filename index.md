@@ -24,6 +24,11 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Selected Publications
 
+> Diffusion Models as Masked Autoencoders  
+> Chen Wei, Karttikeya Mangalam, Po-Yao Huang, Yanghao Li, Haoqi Fan, Hu Xu, **Huiyu Wang**, Cihang Xie, Alan Yuille, Christoph Feichtenhofer  
+> In *arXiv preprint*, 2023  
+> [arXiv](https://arxiv.org/abs/2304.03283) | [Project](https://weichen582.github.io/diffmae.html)
+
 > k-means Mask Transformer  
 > Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
 > In *European Conference on Computer Vision (**ECCV**)*, 2022  
@@ -50,6 +55,11 @@ My research interest is computer vision with focuses on recognition and segmenta
 > [arXiv](https://arxiv.org/abs/1812.05262) | [Code](https://github.com/allenai/elastic) | [Poster](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) | [Video](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
 ## Full List of Publications
+
+> Diffusion Models as Masked Autoencoders  
+> Chen Wei, Karttikeya Mangalam, Po-Yao Huang, Yanghao Li, Haoqi Fan, Hu Xu, **Huiyu Wang**, Cihang Xie, Alan Yuille, Christoph Feichtenhofer  
+> In *arXiv preprint*, 2023  
+> [arXiv](https://arxiv.org/abs/2304.03283) | [Project](https://weichen582.github.io/diffmae.html)
 
 > Masked Autoencoders Enable Efficient Knowledge Distillers  
 > Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, **Huiyu Wang**, Alan Yuille, Yuyin Zhou, Cihang Xie  
