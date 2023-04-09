@@ -20,7 +20,6 @@ My research interest is computer vision with focuses on recognition and segmenta
 - [iBOT](https://arxiv.org/abs/2111.07832) for masked image modeling with an online tokenizer is accepted to ICLR 2022.
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, proposes **Ma**sk **X**formers for end-to-end panoptic segmentation.
-- [CO2](https://arxiv.org/abs/2010.02217) is accepted to ICLR 2021.
 - [Axial-DeepLab](https://arxiv.org/abs/2003.07853), the first architecture with global attention in all layers, is accepted to ECCV 2020.
 
 ## Selected Publications
@@ -51,6 +50,11 @@ My research interest is computer vision with focuses on recognition and segmenta
 > [arXiv](https://arxiv.org/abs/1812.05262) | [Code](https://github.com/allenai/elastic) | [Poster](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) | [Video](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
 ## Full List of Publications
+
+> Masked Autoencoders Enable Efficient Knowledge Distillers  
+> Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, **Huiyu Wang**, Alan Yuille, Yuyin Zhou, Cihang Xie  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2023  
+> [arXiv](https://arxiv.org/abs/2208.12256) | [Code](https://github.com/UCSC-VLAA/DMAE)
 
 > k-means Mask Transformer  
 > Qihang Yu, **Huiyu Wang**, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen  
