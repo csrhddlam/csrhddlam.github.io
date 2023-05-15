@@ -13,7 +13,7 @@ I am a research scientist at FAIR, Meta. Before that I received my Ph.D. in Comp
 
 My research interest is computer vision with focuses on recognition and segmentation of images and videos.
 
-Hiring: We are actively looking for [interns](https://www.metacareers.com/jobs/1427448121116394/) starting in Fall/Winter 2023. If you are interested in these positions, please drop me an email for details. Our team works on egocentric and exocentric videos, vision and language, generation and recognition.
+**Hiring:** We are actively looking for [interns](https://www.metacareers.com/jobs/1427448121116394/) starting in Fall/Winter 2023. If you are interested in these positions, please drop me an email for details. Our team works on egocentric and exocentric videos, vision and language, generation and recognition.
 
 ## News
 
