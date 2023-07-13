@@ -12,9 +12,9 @@ author_profile: true
 I am a research scientist at FAIR, Meta. Before that I received my Ph.D. in Computer Science at Johns Hopkins University, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). I obtained M.S. in Electrical Engineering from University of California, Los Angeles and B.S. in Information Engineering from Shanghai Jiao Tong University. I also spent two years as a student researcher at Google. I had wonderful summers at Allen Institute for Artificial Intelligence and TuSimple.
 
 My research interest is computer vision with focuses on recognition and segmentation of images and videos.
-
+<!---
 **Hiring: We are actively recruiting [interns](https://www.metacareers.com/jobs/1427448121116394/) for Fall/Winter 2023.** If you are interested in these opportunities, please drop me an email for details. Our team works on egocentric and exocentric videos, vision and language, generation and recognition.
-
+-->
 ## News
 
 - 3 / 3 papers accepted to ECCV 2022.
