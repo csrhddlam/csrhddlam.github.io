@@ -203,7 +203,7 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Novelty
 
-Novelty is the name of a cat. Here are some images recontructed by [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
+Novelty is my cat. Here are some images reconstructed by [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty2.png)
