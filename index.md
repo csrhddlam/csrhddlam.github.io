@@ -26,9 +26,14 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Selected Publications
 
+> Ego-Only: Egocentric Action Detection without Exocentric Transferring  
+> **Huiyu Wang**, Mitesh Kumar Singh, Lorenzo Torresani  
+> In *International Conference on Computer Vision (**ICCV**)*, 2023  
+> [arXiv](https://arxiv.org/abs/2301.01380) | [poster](https://csrhddlam.github.io/EgoOnlyPoster.pdf) | [slides](https://csrhddlam.github.io/EgoOnlySlides.pdf) | [video](https://www.youtube.com/watch?v=p3unjly6-Cc)
+
 > Diffusion Models as Masked Autoencoders  
 > Chen Wei, Karttikeya Mangalam, Po-Yao Huang, Yanghao Li, Haoqi Fan, Hu Xu, **Huiyu Wang**, Cihang Xie, Alan Yuille, Christoph Feichtenhofer  
-> In *arXiv preprint*, 2023  
+> In *International Conference on Computer Vision (**ICCV**)*, 2023  
 > [arXiv](https://arxiv.org/abs/2304.03283) | [project](https://weichen582.github.io/diffmae.html)
 
 > k-means Mask Transformer  
@@ -58,15 +63,20 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Full List of Publications
 
+> Ego-Only: Egocentric Action Detection without Exocentric Transferring  
+> **Huiyu Wang**, Mitesh Kumar Singh, Lorenzo Torresani  
+> In *International Conference on Computer Vision (**ICCV**)*, 2023  
+> [arXiv](https://arxiv.org/abs/2301.01380) | [poster](https://csrhddlam.github.io/EgoOnlyPoster.pdf) | [slides](https://csrhddlam.github.io/EgoOnlySlides.pdf) | [video](https://www.youtube.com/watch?v=p3unjly6-Cc)
+
 > Diffusion Models as Masked Autoencoders  
 > Chen Wei, Karttikeya Mangalam, Po-Yao Huang, Yanghao Li, Haoqi Fan, Hu Xu, **Huiyu Wang**, Cihang Xie, Alan Yuille, Christoph Feichtenhofer  
-> In *arXiv preprint*, 2023  
+> In *International Conference on Computer Vision (**ICCV**)*, 2023  
 > [arXiv](https://arxiv.org/abs/2304.03283) | [project](https://weichen582.github.io/diffmae.html)
 
-> Ego-Only: Egocentric Action Detection without Exocentric Pretraining  
-> **Huiyu Wang**, Mitesh Kumar Singh, Lorenzo Torresani  
-> In *arXiv preprint*, 2023  
-> [arXiv](https://arxiv.org/abs/2301.01380)
+> SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training  
+> Yuanze Lin, Chen Wei, **Huiyu Wang**, Alan Yuille, Cihang Xie
+> In *International Conference on Computer Vision (**ICCV**)*, 2023  
+> [arXiv](https://arxiv.org/abs/2211.11446)
 
 > Masked Autoencoders Enable Efficient Knowledge Distillers  
 > Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, **Huiyu Wang**, Alan Yuille, Yuyin Zhou, Cihang Xie  
