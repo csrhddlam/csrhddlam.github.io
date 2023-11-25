@@ -74,7 +74,7 @@ My research interest is computer vision with focuses on recognition and segmenta
 > [arXiv](https://arxiv.org/abs/2304.03283) | [project](https://weichen582.github.io/diffmae.html)
 
 > SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training  
-> Yuanze Lin, Chen Wei, **Huiyu Wang**, Alan Yuille, Cihang Xie
+> Yuanze Lin, Chen Wei, **Huiyu Wang**, Alan Yuille, Cihang Xie  
 > In *International Conference on Computer Vision (**ICCV**)*, 2023  
 > [arXiv](https://arxiv.org/abs/2211.11446)
 
