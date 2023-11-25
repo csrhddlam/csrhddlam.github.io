@@ -17,8 +17,11 @@ My research interest is computer vision with focuses on recognition and segmenta
 -->
 ## News
 
-- 3 / 3 papers accepted to ECCV 2022.
-- 3 / 3 papers accepted to CVPR 2022.
+- [Ego4D Goal-Step](https://openreview.net/forum?id=3BxYAaovKr) and [HT-Step](https://openreview.net/forum?id=vv3cocNsEK) to be presented at NeurIPS 2023. See you in New Orleans.
+- [Ego-Only](https://arxiv.org/abs/2301.01380), [DiffMAE](https://arxiv.org/abs/2304.03283), and [SMAUG](https://arxiv.org/abs/2211.11446) presented remotely at ICCV 2023, Paris, France.
+- DMAE presented at CVPR 2023.
+- 3 / 3 submissions accepted to ECCV 2022.
+- 3 / 3 submissions accepted to CVPR 2022.
 - [iBOT](https://arxiv.org/abs/2111.07832) for masked image modeling with an online tokenizer is accepted to ICLR 2022.
 - [DeepLab2](https://github.com/google-research/deeplab2) has been released, with [MaX-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/max_deeplab.md) and [Axial-DeepLab](https://github.com/google-research/deeplab2/blob/main/g3doc/projects/axial_deeplab.md) officially re-implemented in TensorFlow2.
 - [MaX-DeepLab](https://arxiv.org/abs/2012.00759), accepted to CVPR 2021, proposes **Ma**sk **X**formers for end-to-end panoptic segmentation.
