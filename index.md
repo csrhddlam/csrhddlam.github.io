@@ -18,7 +18,7 @@ My research interest is computer vision with focuses on recognition and segmenta
 <!--- -->
 ## News
 
-- [Ego4D Goal-Step](https://openreview.net/forum?id=3BxYAaovKr) and [HT-Step](https://openreview.net/forum?id=vv3cocNsEK) to be presented at NeurIPS 2023. See you in New Orleans.
+- [Ego4D Goal-Step](https://openreview.net/forum?id=3BxYAaovKr) and [HT-Step](https://openreview.net/forum?id=vv3cocNsEK) presented at NeurIPS 2023 in New Orleans.
 - [Ego-Only](https://arxiv.org/abs/2301.01380), [DiffMAE](https://arxiv.org/abs/2304.03283), and [SMAUG](https://arxiv.org/abs/2211.11446) presented remotely at ICCV 2023, Paris, France.
 - DMAE presented at CVPR 2023.
 - 3 / 3 submissions accepted to ECCV 2022.
@@ -204,7 +204,9 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 ## Novelty
 
-Novelty is my cat. Here are some images reconstructed by [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
+Novelty (Noah) is my cat. He is a core contributor featured in the [Ego How-To](https://ai.meta.com/research/ego-how-to/) research by Meta.
+
+Here are some images reconstructed with [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty2.png)
