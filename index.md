@@ -206,6 +206,8 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 Novelty (Noah) is my cat. He is a core contributor featured in the [Ego How-To](https://ai.meta.com/research/ego-how-to/) research by Meta.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/noah.png)
+
 Here are some images reconstructed with [DiffMAE](https://arxiv.org/abs/2304.03283). Left to right: original, masked, generated.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
