@@ -206,14 +206,14 @@ My research interest is computer vision with focuses on recognition and segmenta
 
 Novelty (Noah) is my cat. He is a core contributor featured in the [Ego How-To](https://ai.meta.com/research/ego-how-to/) research by Meta:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/noah.png){:height="69.285714285%" width="69.285714285%"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/noah.png){:width="776px"}
 
 Here are some images reconstructed with [DiffMAE](https://arxiv.org/abs/2304.03283) (original, masked, generated):
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty2.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty3.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty4.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty5.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty6.png)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty7.png)
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty1.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty2.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty3.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty4.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty5.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty6.png){:width="776px"}
+![Noah]({{ site.url }}{{ site.baseurl }}/assets/images/Novelty7.png){:width="776px"}
