@@ -18,6 +18,8 @@ My research interest is computer vision with focuses on recognition and segmenta
 <!--- -->
 ## News
 
+- 3 papers to be presented at ECCV 2024.
+- [Ego-Exo4D](https://ego-exo4d-data.org/) and [ROSA](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.html) accepted to CVPR 2024, both as **oral**.
 - [Ego4D Goal-Step](https://openreview.net/forum?id=3BxYAaovKr) and [HT-Step](https://openreview.net/forum?id=vv3cocNsEK) presented at NeurIPS 2023 in New Orleans.
 - [Ego-Only](https://arxiv.org/abs/2301.01380), [DiffMAE](https://arxiv.org/abs/2304.03283), and [SMAUG](https://arxiv.org/abs/2211.11446) presented remotely at ICCV 2023, Paris, France.
 - DMAE presented at CVPR 2023.
