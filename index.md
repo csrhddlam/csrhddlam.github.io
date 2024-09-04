@@ -72,12 +72,12 @@ My research interest is computer vision with focuses on recognition and segmenta
 > Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities  
 > Yale Song, Gene Byrne, Tushar Nagarajan, **Huiyu Wang**, Miguel Martin, Lorenzo Torresani  
 > In *Conference on Neural Information Processing Systems (**NeurIPS**)*, 2023 (**Spotlight**)  
-> [paper](https://openreview.net/forum?id=3BxYAaovKr)
+> [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a65606fa1a6849450550325832036e5-Abstract-Datasets_and_Benchmarks.html) | [data](https://github.com/facebookresearch/ego4d-goalstep) | [visualization](https://visualize.ego4d-data.org/?q=%22benchmarks+include+goalstep%22)
 
 > HT-Step: Aligning Instructional Articles with How-To Videos  
 > Triantafyllos Afouras, Effrosyni Mavroudi, Tushar Nagarajan, **Huiyu Wang**, Lorenzo Torresani  
 > In *Conference on Neural Information Processing Systems (**NeurIPS**)*, 2023  
-> [paper](https://openreview.net/forum?id=vv3cocNsEK)
+> [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9d58d85bfc041b4f901c62ba37a3f322-Abstract-Datasets_and_Benchmarks.html) | [data](https://github.com/facebookresearch/htstep) | [project](https://facebookresearch.github.io/htstep/)
 
 > Ego-Only: Egocentric Action Detection without Exocentric Transferring  
 > **Huiyu Wang**, Mitesh Kumar Singh, Lorenzo Torresani  
