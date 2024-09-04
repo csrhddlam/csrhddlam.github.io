@@ -70,15 +70,15 @@ My research interest is computer vision with focuses on understanding images and
 ## Full List of Publications
 
 > Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos  
-> Md Mohaiminul Islam, Tushar Nagarajan, Huiyu Wang, Fu-Jen Chu, Kris Kitani, Gedas Bertasius, Xitong Yang  
+> Md Mohaiminul Islam, Tushar Nagarajan, **Huiyu Wang**, Fu-Jen Chu, Kris Kitani, Gedas Bertasius, Xitong Yang  
 > In *European Conference on Computer Vision (**ECCV**)*, 2024 (**Oral**)
 
 > Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data  
-> Wufei Ma, Kai Li, Zhongshi Jiang, Moustafa Meshry, Qihao Liu, Huiyu Wang, Christian Häne, Alan Yuille  
+> Wufei Ma, Kai Li, Zhongshi Jiang, Moustafa Meshry, Qihao Liu, **Huiyu Wang**, Christian Häne, Alan Yuille  
 > In *European Conference on Computer Vision (**ECCV**)*, 2024
 
 > 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation  
-> Feng Cheng, Mi Luo, Huiyu Wang, Alex Dimakis, Lorenzo Torresani, Gedas Bertasius, Kristen Grauman  
+> Feng Cheng, Mi Luo, **Huiyu Wang**, Alex Dimakis, Lorenzo Torresani, Gedas Bertasius, Kristen Grauman  
 > In *European Conference on Computer Vision (**ECCV**)*, 2024
 
 > Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives  
