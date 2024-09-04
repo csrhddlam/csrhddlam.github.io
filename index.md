@@ -75,8 +75,8 @@ My research interest is computer vision with focuses on understanding images and
 > [arXiv](https://arxiv.org/abs/2311.18259) | [data](https://ego-exo4d-data.org/) | [code](https://github.com/facebookresearch/Ego4d) | [video](https://www.youtube.com/watch?v=GdooXEBAnI8) | [Meta AI blog](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/)
 
 > Learning to Segment Referred Objects from Narrated Egocentric Videos  
-> Yuhan Shen, **Huiyu Wang**, Xitong Yang, Matt Feiszli, Ehsan Elhamifar, Lorenzo Torresani, Effrosyni Mavroudi
-> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (**Oral**)
+> Yuhan Shen, **Huiyu Wang**, Xitong Yang, Matt Feiszli, Ehsan Elhamifar, Lorenzo Torresani, Effrosyni Mavroudi  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (**Oral**)  
 > [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.html)
 
 > Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities  
