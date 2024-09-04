@@ -11,7 +11,7 @@ author_profile: true
 
 I am a research scientist at FAIR, Meta. Before that I received my Ph.D. in Computer Science at Johns Hopkins University, advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](https://cs.jhu.edu/~ayuille/). I obtained M.S. in Electrical Engineering from University of California, Los Angeles and B.S. in Information Engineering from Shanghai Jiao Tong University. I also spent two years as a student researcher at Google. I had wonderful summers at Allen Institute for Artificial Intelligence and TuSimple.
 
-My research interest is computer vision with focuses on recognition and segmentation of images and videos.
+My research interest is computer vision with focuses on understanding images and videos.
 
 <!---
 **Hiring: We are recruiting research interns** interested in video understanding, generation, and vision-language. If you are interested in the opportunities, please email me for details.
@@ -68,6 +68,16 @@ My research interest is computer vision with focuses on recognition and segmenta
 > [arXiv](https://arxiv.org/abs/1812.05262) | [code](https://github.com/allenai/elastic) | [poster](http://www.cs.jhu.edu/~hwang157/Elastic_Poster.pdf) | [video](https://www.youtube.com/watch?v=gnREux6Zwjg&t=4310s)
 
 ## Full List of Publications
+
+> Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives
+> Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, Triantafyllos Afouras, Kumar Ashutosh, Vijay Baiyya, Siddhant Bansal, Bikram Boote, Eugene Byrne, Zach Chavis, Joya Chen, Feng Cheng, Fu-Jen Chu, Sean Crane, Avijit Dasgupta, Jing Dong, Maria Escobar, Cristhian Forigua, Abrham Gebreselasie, Sanjay Haresh, Jing Huang, Md Mohaiminul Islam, Suyog Jain, Rawal Khirodkar, Devansh Kukreja, Kevin J Liang, Jia-Wei Liu, Sagnik Majumder, Yongsen Mao, Miguel Martin, Effrosyni Mavroudi, Tushar Nagarajan, Francesco Ragusa, Santhosh Kumar Ramakrishnan, Luigi Seminara, Arjun Somayazulu, Yale Song, Shan Su, Zihui Xue, Edward Zhang, Jinxu Zhang, Angela Castillo, Changan Chen, Xinzhu Fu, Ryosuke Furuta, Cristina Gonzalez, Prince Gupta, Jiabo Hu, Yifei Huang, Yiming Huang, Weslie Khoo, Anush Kumar, Robert Kuo, Sach Lakhavani, Miao Liu, Mi Luo, Zhengyi Luo, Brighid Meredith, Austin Miller, Oluwatumininu Oguntola, Xiaqing Pan, Penny Peng, Shraman Pramanick, Merey Ramazanova, Fiona Ryan, Wei Shan, Kiran Somasundaram, Chenan Song, Audrey Southerland, Masatoshi Tateno, **Huiyu Wang**, Yuchen Wang, Takuma Yagi, Mingfei Yan, Xitong Yang, Zecheng Yu, Shengxin Cindy Zha, Chen Zhao, Ziwei Zhao, Zhifan Zhu, Jeff Zhuo, Pablo Arbelaez, Gedas Bertasius, David Crandall, Dima Damen, Jakob Engel, Giovanni Maria Farinella, Antonino Furnari, Bernard Ghanem, Judy Hoffman, C. V. Jawahar, Richard Newcombe, Hyun Soo Park, James M. Rehg, Yoichi Sato, Manolis Savva, Jianbo Shi, Mike Zheng Shou, Michael Wray  
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (**Oral**)
+> [arXiv](https://arxiv.org/abs/2311.18259) | [data](https://ego-exo4d-data.org/) | [code](https://github.com/facebookresearch/Ego4d) | [video](https://www.youtube.com/watch?v=GdooXEBAnI8) | [Meta AI blog](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/)
+
+> Learning to Segment Referred Objects from Narrated Egocentric Videos
+> Yuhan Shen, **Huiyu Wang**, Xitong Yang, Matt Feiszli, Ehsan Elhamifar, Lorenzo Torresani, Effrosyni Mavroudi
+> In *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (**Oral**)
+> [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.html)
 
 > Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities  
 > Yale Song, Gene Byrne, Tushar Nagarajan, **Huiyu Wang**, Miguel Martin, Lorenzo Torresani  
