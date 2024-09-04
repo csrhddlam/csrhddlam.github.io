@@ -77,7 +77,7 @@ My research interest is computer vision with focuses on understanding images and
 > Wufei Ma, Kai Li, Zhongshi Jiang, Moustafa Meshry, Qihao Liu, Huiyu Wang, Christian Häne, Alan Yuille  
 > In *European Conference on Computer Vision (**ECCV**)*, 2024
 
-> 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation
+> 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation  
 > Feng Cheng, Mi Luo, Huiyu Wang, Alex Dimakis, Lorenzo Torresani, Gedas Bertasius, Kristen Grauman  
 > In *European Conference on Computer Vision (**ECCV**)*, 2024
 
